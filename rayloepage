@@ -1,3 +1,42 @@
+<main id="main">
+  <h1 id="title">Raymond Loewy</h1>
+  <figure id="img-div">
+    <img
+      id="image"
+      src="https://blogautomobile.fr/wp-content/uploads/2013/11/studebaker-avanti-et-raymond-loewy-1200x675.jpg"
+      alt="Raymond pictured with one of his most famous designs, the Studebaker Avanti"
+    />
+    <figcaption id="img-caption">
+      Raymond pictured with one of his most famous designs, the Studebaker Avanti
+    </figcaption>
+  </figure>
+  <blockquote
+      cite="http://raymondloewy.com/about/quotes/#:~:text=%E2%80%9CIt%20all%20must%20start%20with,the%2020th%20Century%20more%20beautiful.%E2%80%9D&text=%E2%80%9CI%20believe%20most%20in%20educated,you%20get%20through%20profound%20experience.%E2%80%9D"
+    >
+      <p>
+        "More than function itself, simplicity is the deciding factor in the aesthetic equation."
+      </p>
+      <cite>-- Raymond Loewy</cite>
+    </blockquote>
+  <section id="tribute-info">
+    <h3 id="headline">BIO</h3>
+      <h4><strong>Raymond Loewy (November 5, 1893 – July 14, 1986) was a French-born American industrial designer who achieved fame for the magnitude of his design efforts across a variety of industries. He was recognized for this by Time magazine and featured on its cover on October 31, 1949.
+
+He spent most of his professional career in the United States, becoming a naturalized citizen in 1938. Among his designs were the Shell, Exxon, TWA and the former BP logos, the Greyhound Scenicruiser bus, Coca-Cola vending machines and bottle redesign, the Lucky Strike package, Coldspot refrigerators, the Studebaker Avanti and Champion, and the Air Force One livery. He was engaged by equipment manufacturer International Harvester to overhaul its entire product line, and his team also assisted competitor Allis-Chalmers. He undertook numerous railroad designs, including the Pennsylvania Railroad GG1, S-1, and T1 locomotives, the color scheme and Eagle motif for the first streamliners of the Missouri Pacific Railroad, and a number of lesser known color scheme and car interior designs for other railroads. His career spanned seven decades.
+
+The press referred to Loewy as The Man Who Shaped America, The Father of Streamlining and The Father of Industrial Design</strong></h4>
+    <h3>
+      Read more about Raymond Loewy 
+      <a
+        id="tribute-link"
+        href="http://raymondloewy.com/"
+        target="_blank"
+        >here</a
+      >.
+    </h3>
+  </section>
+</main>
+
 html {
   font-size: 10px;
 }
